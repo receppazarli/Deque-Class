@@ -1,0 +1,6 @@
+﻿  Deque.cpp
+  ProgrammingAssignment.cpp
+  Generating Code...
+C:\Users\HP\source\repos\ProgrammingAssignment\ProgrammingAssignment\Deque.cpp(45): warning C4715: 'Deque::Rear': not all control paths return a value
+C:\Users\HP\source\repos\ProgrammingAssignment\ProgrammingAssignment\Deque.cpp(33): warning C4715: 'Deque::Front': not all control paths return a value
+  ProgrammingAssignment.vcxproj -> C:\Users\HP\source\repos\ProgrammingAssignment\Debug\ProgrammingAssignment.exe
